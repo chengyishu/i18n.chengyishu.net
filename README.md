@@ -2,9 +2,9 @@
 
 ### 一、English
 
-1. [Pronunciation](English/pronunciation.html)
-2. [Words and Phrases](English/words-and-phrases.html)
-3. [Expression](English/expression.html)
+1. [Pronunciation](English/Pronunciation.html)
+2. [Words and Phrases](English/Words and Phrases.html)
+3. [Expression](English/Expression.html)
 
 ### 二、日本語
 
